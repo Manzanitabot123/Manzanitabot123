@@ -1,11 +1,11 @@
-### HoLa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Soy **Manzanita** o tambien Manzanitabot123 y actualmente solo programo para entreterme
+Soy **Manzanita** o tambien **Manzanitabot123** y actualmente solo programo para entreterme y aprender de mis errores...
 
-
-  <img align="right" alt="GIF" src="https://pa1.narvii.com/6050/35920a1f7d66d1514ea7bba9ced36422db181d42_hq.gif" width="500" height="320" />
-  
-- Soy novato en pocas palabras
+<p align="center"> 
+<img alt="GIF" src="https://pa1.narvii.com/6050/35920a1f7d66d1514ea7bba9ced36422db181d42_hq.gif" width="500" height="320" />
+<p align="center">   
+Soy novato en pocas palabras :I
 
 **Lenguajes y herramientas que uso**  
 
@@ -17,18 +17,20 @@ Soy **Manzanita** o tambien Manzanitabot123 y actualmente solo programo para ent
 📊 **Este año:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   20 días         ████░░░░░░░░░░░░░░░░░░░░░   23 % 
+JavaScript   9 días         ███░░░░░░░░░░░░░░░░░░░░░░   23 % 
 ```
 <!--END_SECTION:waka-->
 
-Ga xd
+`GG`
 <!-- TODO-IST:END -->
 
 
-📈 Nice
+### 📈 Mi estado
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manzanitabot123&show_icons=true&theme=gotham" alt="Manzanitabot123" />
+ 
 
-
-
-
+### 🤖 Mi repositorio:
+<p align="center">
+<a href="https://github.com/Manzanitabot123/AnimeFLV_DiscordBOT" target="_blank">
+<img class =“right” title="Comercio" src="https://github-readme-stats.vercel.app/api/pin/?username=Manzanitabot123&repo=AnimeFLV_DiscordBOT&theme=gotham" alt="Manzanitabot123Pins">
