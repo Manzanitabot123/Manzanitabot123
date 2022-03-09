@@ -1,4 +1,4 @@
-### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Soy **Manzanita** o tambien **Manzanitabot123** y actualmente solo programo para entreterme y aprender de mis errores...
 
@@ -13,6 +13,8 @@ Soy novato en pocas palabras :I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ### 📊 Este año:
 <!--START_SECTION:waka-->
@@ -30,7 +32,9 @@ JavaScript   9 días         ███░░░░░░░░░░░░░░
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manzanitabot123&show_icons=true&theme=gotham" alt="Manzanitabot123" />
  
 
-### 🤖 Mi repositorio:
+### 🤖 Mis repositorios:
 <p align="center">
+<a href="https://github.com/Manzanitabot123/Simple-Custom-Meet-Extension" target="_blank">
+<img class =“right” title="Simple Custom Meet" src="https://github-readme-stats.vercel.app/api/pin/?username=Manzanitabot123&repo=Simple-Custom-Meet-Extension&theme=gotham" alt="Manzanitabot123Pins">
 <a href="https://github.com/Manzanitabot123/AnimeFLV_DiscordBOT" target="_blank">
-<img class =“right” title="Comercio" src="https://github-readme-stats.vercel.app/api/pin/?username=Manzanitabot123&repo=AnimeFLV_DiscordBOT&theme=gotham" alt="Manzanitabot123Pins">
+<img class =“right” title="AnimeFLV Bot Discord" src="https://github-readme-stats.vercel.app/api/pin/?username=Manzanitabot123&repo=AnimeFLV_DiscordBOT&theme=gotham" alt="Manzanitabot123Pins">
