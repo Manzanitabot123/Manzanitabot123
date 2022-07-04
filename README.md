@@ -5,24 +5,19 @@
 Soy **Manzanita** o tambien **Manzanitabot123** y actualmente solo programo para entreterme y aprender de mis errores... 
 
 ----
-
-<img alt="GIF" align="left" src="https://pa1.narvii.com/6558/62d01daad1ab56478512ae001935c99c5228b838_hq.gif" height="250" />
-
-### 💻 Lenguajes y herramientas que uso  
-
+<p align="center">
+<img alt="GIF" src="https://pa1.narvii.com/6558/62d01daad1ab56478512ae001935c99c5228b838_hq.gif" height="250" />
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Manzanitabot123&show_icons=true&theme=gotham" alt="Manzanitabot123" />
+<p align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
-### 📈 Mi estado
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Manzanitabot123&show_icons=true&theme=gotham" alt="Manzanitabot123" />
 
 ----
-
-### 🤖 Mis repositorios:
 
 <img alt="GIF" align="right" src="https://pa1.narvii.com/6347/f42e81d85f94667773f7e4c42b27c91876728fd3_hq.gif" height="320" />
 
