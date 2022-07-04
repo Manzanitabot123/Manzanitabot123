@@ -6,7 +6,7 @@ Soy **Manzanita** o tambien **Manzanitabot123** y actualmente solo programo para
 
 ----
 
-<img alt="GIF" align="left" src="https://pa1.narvii.com/6558/62d01daad1ab56478512ae001935c99c5228b838_hq.gif" width="450" height="320" />
+<img alt="GIF" align="left" src="https://pa1.narvii.com/6558/62d01daad1ab56478512ae001935c99c5228b838_hq.gif" height="250" />
 
 ### 💻 Lenguajes y herramientas que uso  
 
@@ -18,7 +18,7 @@ Soy **Manzanita** o tambien **Manzanitabot123** y actualmente solo programo para
 
 ### 📈 Mi estado
 
-<img height="100" src="https://github-readme-stats.vercel.app/api?username=Manzanitabot123&show_icons=true&theme=gotham" alt="Manzanitabot123" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Manzanitabot123&show_icons=true&theme=gotham" alt="Manzanitabot123" />
 
 ----
 
