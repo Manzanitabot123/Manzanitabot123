@@ -6,7 +6,7 @@ Soy **Manzanita** o tambien **Manzanitabot123** y actualmente solo programo para
 
 ----
 
-<img alt="GIF" align="left" src="https://pa1.narvii.com/6558/62d01daad1ab56478512ae001935c99c5228b838_hq.gif" width="500" height="320" />
+<img alt="GIF" align="left" src="https://pa1.narvii.com/6558/62d01daad1ab56478512ae001935c99c5228b838_hq.gif" width="450" height="320" />
 
 ### 💻 Lenguajes y herramientas que uso  
 
@@ -18,15 +18,15 @@ Soy **Manzanita** o tambien **Manzanitabot123** y actualmente solo programo para
 
 ### 📈 Mi estado
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manzanitabot123&show_icons=true&theme=gotham" alt="Manzanitabot123" />
+<img height="100" src="https://github-readme-stats.vercel.app/api?username=Manzanitabot123&show_icons=true&theme=gotham" alt="Manzanitabot123" />
 
 ----
 
 ### 🤖 Mis repositorios:
 
-<img alt="GIF" align="right" src="https://pa1.narvii.com/6347/f42e81d85f94667773f7e4c42b27c91876728fd3_hq.gif" height="160" />
+<img alt="GIF" align="right" src="https://pa1.narvii.com/6347/f42e81d85f94667773f7e4c42b27c91876728fd3_hq.gif" height="320" />
 
 <a href="https://github.com/Manzanitabot123/Simple-Custom-Meet-Extension" target="_blank">
-<img width="430" class =“right” title="Simple Custom Meet" src="https://github-readme-stats.vercel.app/api/pin/?username=Manzanitabot123&repo=Simple-Custom-Meet-Extension&theme=gotham" alt="Manzanitabot123Pins">
+<img height="150" class =“right” title="Simple Custom Meet" src="https://github-readme-stats.vercel.app/api/pin/?username=Manzanitabot123&repo=Simple-Custom-Meet-Extension&theme=gotham" alt="Manzanitabot123Pins">
 <a href="https://github.com/Manzanitabot123/AnimeFLV_DiscordBOT" target="_blank">
-<img width="400" class =“right” title="AnimeFLV Bot Discord" src="https://github-readme-stats.vercel.app/api/pin/?username=Manzanitabot123&repo=AnimeFLV_DiscordBOT&theme=gotham" alt="Manzanitabot123Pins">
+<img height="160" class =“right” title="AnimeFLV Bot Discord" src="https://github-readme-stats.vercel.app/api/pin/?username=Manzanitabot123&repo=AnimeFLV_DiscordBOT&theme=gotham" alt="Manzanitabot123Pins">
