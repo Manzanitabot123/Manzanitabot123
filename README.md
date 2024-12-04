@@ -2,8 +2,8 @@
 <img width="150" height="150" align="left" style="filter: saturate(5); float: left; margin: 0 10px 0 0;" src="https://thumbs.gfycat.com/EmbarrassedSparklingEarthworm-max-1mb.gif"> 
 
 # $\fbox{¡Hola!}$ <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" /> Bienvenido a mi repositorio.
-
-$\mathscr{\color{#FFD600}{Soy} \ \ \color{#FF1616}{MANZANITA} \ \ \color{#FFD600}{ o \ \  tambien} \ \ \color{#FF1616}{Manzanitabot123}}$
+<p align="center">
+$\mathscr{\color{#FFD600}{Soy} \ \ \color{#FF1616}{MANZBOT}}$
 $\mathscr{\color{#FFD600}{y \ \ actualmente \ \ solo \ \ programo \ \ para \ \ entretenerme}}$
 $\mathscr{\color{#FFD600}{en \ \ mi \ \ tiempo \ \ libre \ \ y \ \ aprender \ \ de \ \ mis \ \ errores.}}$
 
@@ -17,19 +17,8 @@ $\mathscr{\color{#FFD600}{en \ \ mi \ \ tiempo \ \ libre \ \ y \ \ aprender \ \ 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Manzanitabot123&theme=radical&border_radius=45&locale=es&bg_color=2DB93E14&title_color=FF1616&text_color=FFD600&icon_color=FF1616&show_icons=true&border_color=FFD600&text_bold=false" alt="Manzanitabot123" />
 
 <p align="center">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-----
-
-<img alt="GIF" align="right" src="https://pa1.narvii.com/6347/f42e81d85f94667773f7e4c42b27c91876728fd3_hq.gif" height="320" />
-
-<a href="https://github.com/Manzanitabot123/Simple-Custom-Meet-Extension" target="_blank">
-<img height="150" class =“right” title="Simple Custom Meet" src="https://github-readme-stats.vercel.app/api/pin/?username=Manzanitabot123&repo=Simple-Custom-Meet-Extension&theme=radical&border_radius=45&locale=es&bg_color=2DB93E14&title_color=FF1616&text_color=FFD600&icon_color=FF1616&show_icons=true&border_color=FFD600&text_bold=false" alt="Manzanitabot123Pins">
-<a href="https://github.com/Manzanitabot123/AnimeFLV_DiscordBOT" target="_blank">
-<img height="160" class =“right” title="AnimeFLV Bot Discord" src="https://github-readme-stats.vercel.app/api/pin/?username=Manzanitabot123&repo=AnimeFLV_DiscordBOT&theme=radical&border_radius=45&locale=es&bg_color=2DB93E14&title_color=FF1616&text_color=FFD600&icon_color=FF1616&show_icons=true&border_color=FFD600&text_bold=false" alt="Manzanitabot123Pins">
-</a>
-<img height="160" class =“right” title="AnimeFLV Bot Discord" src="https://w16mistral.bugatti.com/media/uc2bqyyp/topshot_yellow_lines_loop_2.gif" alt="Manzanitabot123Pins">
+<code><img height="20" class =“right” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" class =“right”  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" class =“right” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" class =“right” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" class =“right” src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
